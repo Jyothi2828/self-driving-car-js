@@ -1,6 +1,7 @@
 # 🚗 Self-Driving Car in JavaScript  
-You can check the working of the app here: [Live Demo](https://self-driving-car-js-no-libraries-jk.vercel.app/)
-
+---
+### Check out the working of the app:
+[![Live Demo](https://via.placeholder.com/600x300?text=Click+to+view+the+Live+Demo)](https://self-driving-car-js-no-libraries-jk.vercel.app/)
 ---
 ## Overview  
 This project simulates a **self-driving car using pure JavaScript (no libraries)**. It implements **AI-based decision-making** to navigate roads and obstacles.  

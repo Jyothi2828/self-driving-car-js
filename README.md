@@ -1,4 +1,4 @@
-# 🚗 Self-Driving Car in JavaScript  
+# 🚗 Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning 
 ---
 ### Check out the working of the app:
 [Live Demo](https://self-driving-car-js-no-libraries-jk.vercel.app/)
@@ -40,5 +40,6 @@ This project simulates a **self-driving car using pure JavaScript (no libraries)
 ## **Acknowledgments**  
 This project was inspired by the tutorial found at [this video](https://www.youtube.com/watch?v=Rs_rAxEsAvI).  
 The code is based on the tutorial's implementation, with modifications to suit the project's requirements.  
-
+✏️ Dr. Radu Mariescu-Istodor created this. 
+Check out his channel:[Radu Mariescu-Istodor](https://www.youtube.com/channel/UC3XGlNq8O5hZlZBJlSFB4jg).  
 ---

@@ -1,7 +1,5 @@
 # 🚗 Self-Driving Car in JavaScript  
-
-**Date**: 2023-10-05  
-**Name**: Jyothi Prasanna Kambam  
+You can check the working of the app here: [Live Demo](https://self-driving-car-js-no-libraries-jk.vercel.app/)
 
 ---
 ## Overview  

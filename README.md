@@ -43,3 +43,11 @@ The code is based on the tutorial's implementation, with modifications to suit t
 ✏️ Dr. Radu Mariescu-Istodor created this. 
 Check out his channel:[Radu Mariescu-Istodor](https://www.youtube.com/channel/UC3XGlNq8O5hZlZBJlSFB4jg).  
 ---
+## 🔍 Keywords
+- **Self-driving car**
+- **Simple JavaScript Project**
+- **Self-driving car in JavaScript**
+- **JavaScript AI car simulation**
+- **Autonomous car with no libraries**
+- **Self-driving car project in vanilla JS**
+
